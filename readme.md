@@ -10,6 +10,6 @@ Most spaceships of the [United Federation of Planets](https://en.wikipedia.org/w
 #How it works
 Each part of the ship has a point to which the other parts are attached to. With a lot of magic values you can draw these parts and align them using those points to create a whole ship.
 
-There is a little variance to each part but not enough to recreate all of the ship featured in the TV-shows and movies. Most resemble one of the famous USS Enterprise .
+There is a little variance to each part but not enough to recreate all of the ships featured in the TV-shows and movies. Most resemble one of the famous USS Enterprise .
 
 ![USS Enterprise](https://en.wikipedia.org/wiki/USS_Enterprise_(NCC-1701)#/media/File:USS_Enterprise_(NCC-1701),_ENT1231.jpg "USS Enterprise (NCC-1701)")
